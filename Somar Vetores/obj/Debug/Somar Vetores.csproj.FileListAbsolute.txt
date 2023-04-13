@@ -1,0 +1,8 @@
+C:\Users\wmfbh\OneDrive\Área de Trabalho\Visual\Somar Vetores\Somar Vetores\bin\Debug\Somar Vetores.exe.config
+C:\Users\wmfbh\OneDrive\Área de Trabalho\Visual\Somar Vetores\Somar Vetores\bin\Debug\Somar Vetores.exe
+C:\Users\wmfbh\OneDrive\Área de Trabalho\Visual\Somar Vetores\Somar Vetores\bin\Debug\Somar Vetores.pdb
+C:\Users\wmfbh\OneDrive\Área de Trabalho\Visual\Somar Vetores\Somar Vetores\obj\Debug\Somar Vetores.csproj.AssemblyReference.cache
+C:\Users\wmfbh\OneDrive\Área de Trabalho\Visual\Somar Vetores\Somar Vetores\obj\Debug\Somar Vetores.csproj.SuggestedBindingRedirects.cache
+C:\Users\wmfbh\OneDrive\Área de Trabalho\Visual\Somar Vetores\Somar Vetores\obj\Debug\Somar Vetores.csproj.CoreCompileInputs.cache
+C:\Users\wmfbh\OneDrive\Área de Trabalho\Visual\Somar Vetores\Somar Vetores\obj\Debug\Somar Vetores.exe
+C:\Users\wmfbh\OneDrive\Área de Trabalho\Visual\Somar Vetores\Somar Vetores\obj\Debug\Somar Vetores.pdb
